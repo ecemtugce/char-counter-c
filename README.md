@@ -19,5 +19,5 @@ Bu C programı, kullanıcıdan alınan bir metin içinde belirli bir harfin kaç
 
 ``` bir metin giriniz= merhaba dunya
 aranacak harfi giriniz= a
-metindeki a sayisi 3 tanedir. ```
+metindeki a sayisi 3 tanedir. 
 
