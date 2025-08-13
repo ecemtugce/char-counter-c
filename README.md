@@ -11,7 +11,7 @@ Bu C programı, kullanıcıdan alınan bir metin içinde belirli bir harfin kaç
 - Kullanıcıdan **aranacak harfi** alır.
 - Harfin metinde kaç kez geçtiğini ekrana yazdırır.
 
-📌 NOT 
+📌 NOT: 
 'fgets' metin sonuna '\n' ekler. Ama bu durum kodun çalışmasını etkilemez.
 
 
